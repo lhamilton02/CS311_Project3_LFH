@@ -8,6 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// @author: lhamilton2
+// Summary: This Windows Forms application allows users to customize their pizza orders with different sizes, crust types, and toppings.
+// The application calculates the total cost, including tax, and provides an order summary. It also handles exceptions when a pizza size and crust type are not selected.
+
 namespace BUPizzaPalace
 {
     public partial class frmMain : Form
